@@ -11,6 +11,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    object-fit: cover;
+    background-repeat: no-repeat;
     background-image: url('https://picsum.photos/1600/900?random=1');
 }
 
